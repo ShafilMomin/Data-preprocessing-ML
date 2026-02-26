@@ -28,16 +28,14 @@ This notebook performs:
 --- 
 
 ## 📂 Project Structure
-
 data-preprocessing-ml/
-│
-├── data_preprocessing.ipynb
-├── data.csv
-└── README.md
+- data_preprocessing.ipynb
+- data.csv
+- README.md
 
 ---
 
-##🔹 Steps Performed
+##🔹 Steps Performed ##
 1️⃣ Importing Libraries
 - Essential Python libraries for data manipulation and preprocessing.
 
