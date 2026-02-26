@@ -35,7 +35,8 @@ data-preprocessing-ml/
 
 ---
 
-##🔹 Steps Performed ##
+## 🔹 Steps Performed 
+
 1️⃣ Importing Libraries
 - Essential Python libraries for data manipulation and preprocessing.
 
@@ -84,8 +85,8 @@ Add ML model (Logistic Regression / SVM / Random Forest
 ---
 
 ## 👨‍💻 Author
-Shafil Momin
-Aspiring Machine Learning Engineer
+-Shafil Momin
+-Aspiring Machine Learning Engineer
 
 ---
 
