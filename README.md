@@ -10,10 +10,7 @@ It covers handling missing values, encoding categorical variables, train-test sp
 Data preprocessing is a crucial step before training any Machine Learning model.
 This notebook performs:
 
- Handling missing values
-
-Encoding categorical variables
-
-Splitting dataset into training and testing sets
-
-Feature scaling
+- Handling missing values
+- Encoding categorical variables
+- Splitting dataset into training and testing sets
+- Feature scaling
