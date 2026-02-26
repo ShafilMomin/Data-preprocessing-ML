@@ -85,8 +85,8 @@ Add ML model (Logistic Regression / SVM / Random Forest
 ---
 
 ## 👨‍💻 Author
--Shafil Momin
--Aspiring Machine Learning Engineer
+- Shafil Momin
+- Aspiring Machine Learning Engineer
 
 ---
 
